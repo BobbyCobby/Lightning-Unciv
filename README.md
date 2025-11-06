@@ -1,2 +1,2 @@
-# Lightning-Speed
-When you need a QUICK Unciv game.
+# Lightning Unciv
+Speeds up gameplay dramatically. Choose between Lightning, Ultra Lightning, and Warp Speed.
